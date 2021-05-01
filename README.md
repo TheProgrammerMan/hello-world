@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I am Wes, the programmer man. I like coffee and programming because I am so original.
